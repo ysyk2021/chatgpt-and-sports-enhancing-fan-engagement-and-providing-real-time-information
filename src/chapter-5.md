@@ -4,7 +4,7 @@ Chapter 4: Understanding ChatGPT
 What is ChatGPT?
 ----------------
 
-ChatGPT is an AI-powered chatbot developed by OpenAI that uses natural language processing (NLP) to understand and respond to user inquiries. It is based on the Generative Pre-trained Transformer 3 (GPT-3) model, which has advanced machine learning capabilities.
+ChatGPT is an AI-powered chatbot developed by OpenAI that uses natural language processing (NLP) to understand and respond to user inquiries. It is based on the Generative Pre-trained Transformer 3 (GPT-3.5) model, which has advanced machine learning capabilities.
 
 ChatGPT can be trained on a wide range of topics and can generate human-like responses to user queries.
 

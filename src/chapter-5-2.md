@@ -3,11 +3,6 @@ Features and capabilities of ChatGPT
 
 In this chapter, we will explore the features and capabilities of ChatGPT. By understanding what ChatGPT can do, sports organizations can leverage its potential to enhance fan engagement and provide real-time information.
 
-What is ChatGPT?
-----------------
-
-ChatGPT stands for "Chat Generative Pre-trained Transformer". It is an AI-powered chatbot that can understand natural language queries and respond in a personalized and engaging way. ChatGPT uses machine learning algorithms to generate responses that are based on context and user input.
-
 Key Features of ChatGPT
 -----------------------
 

@@ -1,5 +1,3 @@
-Chapter 6: Future of Sports Industry with ChatGPT
-=================================================
 
 As artificial intelligence (AI) and chatbot technologies like ChatGPT continue to evolve, the sports industry is poised for significant transformation. In this chapter, we will explore some of the potential advancements, emerging trends, and challenges in the future of the sports industry with ChatGPT.
 

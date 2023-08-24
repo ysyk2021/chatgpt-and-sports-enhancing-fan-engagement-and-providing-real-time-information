@@ -1,5 +1,3 @@
-How ChatGPT can be used for enhancing fan engagement and providing real-time information in sports
-====================================================================================================================================
 
 ChatGPT is an AI-based chatbot system that can interact with fans and provide personalized, real-time experiences across multiple channels and platforms. In this chapter, we will explore how ChatGPT can be used to enhance fan engagement and provide real-time information in the sports industry.
 

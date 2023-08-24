@@ -1,5 +1,3 @@
-Definition of Sports Industry
-===================================================================
 
 The sports industry is a complex and diverse business that encompasses a range of activities related to sports. In this chapter, we will define the sports industry and discuss its various components.
 
@@ -27,5 +25,4 @@ Conclusion
 ----------
 
 In conclusion, the sports industry is a massive global business that encompasses a wide range of activities related to sports. By understanding the definition of the sports industry and its various components, we can gain a better understanding of how this industry operates and how it contributes to the global economy.
-
 

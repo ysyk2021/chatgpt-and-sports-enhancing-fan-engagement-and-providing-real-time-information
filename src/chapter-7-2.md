@@ -1,5 +1,3 @@
-Emerging trends and challenges in sports and ChatGPT
-=======================================================================================================
 
 In this chapter, we will explore some emerging trends and challenges in the sports industry and how ChatGPT can address them.
 

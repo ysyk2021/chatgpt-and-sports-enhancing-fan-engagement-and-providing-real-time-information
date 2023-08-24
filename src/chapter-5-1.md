@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 In this chapter, we will explore the basics of ChatGPT. We will define what ChatGPT is and how it works, providing a foundation for understanding its capabilities and potential applications in the sports industry.
 

@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will explore the features and capabilities of ChatGPT. By understanding what ChatGPT can do, sports organizations can leverage its potential to enhance fan engagement and provide real-time information.
 

@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 What is ChatGPT?
 ----------------

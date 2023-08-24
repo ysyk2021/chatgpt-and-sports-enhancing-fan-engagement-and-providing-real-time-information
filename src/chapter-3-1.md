@@ -1,5 +1,3 @@
-Factors Affecting Sports Industry
-===========================================================================
 
 There are several factors that contribute to the challenges facing the sports industry. In this chapter, we will discuss some of the major factors affecting the sports industry.
 

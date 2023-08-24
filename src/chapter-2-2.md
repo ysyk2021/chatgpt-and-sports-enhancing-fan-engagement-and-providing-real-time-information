@@ -1,5 +1,3 @@
-Different Types of Sports Businesses
-==========================================================================
 
 The sports industry is a diverse business that includes a wide range of organizations and entities. In this chapter, we will discuss the different types of sports businesses.
 

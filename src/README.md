@@ -10,3 +10,7 @@ Through a combination of case studies, expert insights, and practical examples, 
 Whether you are a sports marketer, team manager, or simply a fan looking to stay informed and engaged, this book will provide you with valuable insights into the future of sports and the role that ChatGPT and other AI technologies will play in shaping it.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
